@@ -2,10 +2,16 @@
   overflow-x:hidden;
   image-rendering:pixelated;
 }
-.brokentaverntitle {
-  font-family: "Jacquard 12", serif;
+.bigdawgtitle {
+  font-family: "Jersey 10", sans-serif;
   font-weight: 400;
-  font-size: 64px;
+  font-size: 80px;
+  font-style: normal;
+}
+.bigdndtitle {
+  font-family: "Cookie", serif;
+  font-weight: 400;
+  font-size: 96px;
 }
 .bigbrokentaverntitle {
   font-family: "Jacquard 24", serif;
